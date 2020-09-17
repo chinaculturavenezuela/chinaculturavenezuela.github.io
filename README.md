@@ -1,7 +1,7 @@
 # 我的网页
 
 
-[点击查看视频教程](https://github.com/chinaculturavenezuela/chinaculturavenezuela.github.io/blob/master/2020-09-17-18-02-13-embed-youtube-2.mp4)
+[点击查看视频教程](https://chinaculturavenezuela.github.io/2020-09-17-18-02-13-embed-youtube-2.mp4)
 
 ## 效果
 
