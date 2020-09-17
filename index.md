@@ -1,17 +1,8 @@
 # 中国文化
 
-## 中国传统文化
 
-## 中国美食
+### A pot of wine among watermelon fields.So…The life of watermelons and grapes?
 
-## 大美中国
+瓜间一壶酒，西瓜和葡萄的一生？丨Liziqi
 
-## 中国城市
-
-## [71 years](aniversario/71year)
-
-## Lab
-
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
-
-
+[![Rose](http://img.youtube.com/vi/kgEgOi32CE0/0.jpg)](https://youtu.be/kgEgOi32CE0 "Rose")
